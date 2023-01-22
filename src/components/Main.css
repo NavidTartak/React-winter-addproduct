@@ -1,0 +1,33 @@
+.main-background {
+  background-image: url("./images/background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+}
+.m-05-auto {
+  margin: 0.5em auto;
+}
+.font-09 {
+  font-size: 0.9em;
+}
+.line-through {
+  text-decoration: line-through;
+}
+.font-08 {
+  font-size: 0.8em;
+}
+.m-9-top {
+  margin-top: 9em;
+}
+.padding-0 {
+  padding: 0 !important;
+}
+.cursor-pointer {
+  cursor: pointer !important;
+}
