@@ -9,6 +9,7 @@
   right: 0;
   bottom: 0;
   top: 0;
+  padding: 0 !important;
 }
 .m-05-auto {
   margin: 0.5em auto;
@@ -30,4 +31,22 @@
 }
 .cursor-pointer {
   cursor: pointer !important;
+}
+.background-fade-white {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.width-3 {
+  width: 3em;
+}
+.font-1-3 {
+  font-size: 1.3em;
+}
+.noselectable {
+  user-select: none;
+}
+.m-2-top {
+  margin-top: 2em;
+}
+.box-bottom-shadow {
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
 }

@@ -1,7 +1,7 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
 
-import React from "react";
+import React, { useState } from "react";
 import StartUp from "./components/StartUp.js";
 
 function App() {

@@ -142,7 +142,7 @@ const AddProduct = (props) => {
     <div className="add-product-container container-fluid">
       <form className="container">
         <div className="row m-9-top">
-          <div className="col-7 m-05-auto">
+          <div className="col-xl-7 col-11 m-05-auto">
             <div className="row">
               <h6 className="col-12 m-auto text-center h6 text-danger">
                 {props.operationResult.message}
